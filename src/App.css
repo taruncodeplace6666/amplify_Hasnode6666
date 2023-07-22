@@ -1,0 +1,21 @@
+.navbar-container {
+    position: relative;
+  }
+  
+  .top-bar,
+  .bottom-bar {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background-color: rebeccapurple;
+  }
+  
+  .top-bar {
+    top: 0;
+  }
+  
+  .bottom-bar {
+    bottom: 0;
+  }
+  
