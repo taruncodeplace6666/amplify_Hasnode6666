@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
 
 function Homepage() {
-  const s3ImageUrl = 'https://peopleplusimage.s3.us-east-2.amazonaws.com/people+connect+app.png'; // Replace this with your actual S3 image URL
+  const s3ImageUrl =  // Replace this with your actual S3 image URL
 
   return (
     <Container>
