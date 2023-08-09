@@ -24,7 +24,7 @@ function App() {
         <View textAlign="center" padding={`${tokens.space.large} 0`}>
           <Image
             alt="peopleplus"
-            src="https://peopleplusimage.s3.us-east-2.amazonaws.com/people+connect+app.png"
+            src=//s3 url
             width="150" // Set the width of the image to 150 pixels
           />
         </View>
